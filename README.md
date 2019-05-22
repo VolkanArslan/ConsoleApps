@@ -1,2 +1,2 @@
 # ConsoleApps
-My Apps I developed on Console
+My Apps developed on Console
